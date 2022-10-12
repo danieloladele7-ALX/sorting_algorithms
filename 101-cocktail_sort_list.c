@@ -2,9 +2,9 @@
 
 /**
  * swapme - swap the nodes themselves.
- * @current: pointer.
- * @current_old: pointer.
- * @list: doubly linked list
+ * @current: A pointer.
+ * @current_old: A pointer.
+ * @list: A doubly linked list
  */
 void swapme(listint_t *current, listint_t *current_old, listint_t **list)
 {
