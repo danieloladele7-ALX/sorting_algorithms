@@ -22,7 +22,7 @@ A sorting algorithms demonstration and example repo
 
 > 👤 **Daniel Oladele**
 >
-> - [Email](mailto:natnaelmasresha@gmail.com), [GitHub](https://github.com/danieloladele7), [LinkedIn](https://www.linkedin.com/in/natnael-masresha-39a69b185/), [Twitter](https://twitter.com/natnaelmasresha)
+> - [Email](mailto:danieloladele7@gmail.com), [GitHub](https://github.com/danieloladele7), [LinkedIn](https://www.linkedin.com/in/daniel-oladele-mnse-86388766/), [Twitter](https://twitter.com/Dan_Oladele)
 
 > 👤 **Fisseha Estifanos**
 >
