@@ -4,11 +4,11 @@
 #include <stdio.h>
 
 /**
- * enum kind_e - card kind
- * @SPADE: spade kind
- * @HEART: heart kind
- * @CLUB: club kind
- * @DIAMOND: diamond kind
+ * enum kind_e - A card kind
+ * @SPADE: A spade kind
+ * @HEART: A heart kind
+ * @CLUB: A club kind
+ * @DIAMOND: A diamond kind
  */
 typedef enum kind_e
 {

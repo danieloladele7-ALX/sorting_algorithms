@@ -52,6 +52,7 @@ void sort_deck(deck_node_t **deck)
  * @node: card in a deck
  *
  * Return: value between 1 and 52
+ * based on a given node (card)
  */
 int card_value(deck_node_t *node)
 {
@@ -101,7 +102,7 @@ int _strcmp(const char *s1, const char *s2)
  * list_len_deck - function returns length of list
  * @list: head of list
  *
- * Return: length
+ * Return: length of the list_len_deck
  */
 size_t list_len_deck(deck_node_t *list)
 {
