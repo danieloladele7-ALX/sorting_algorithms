@@ -1,7 +1,4 @@
-#include <stdint.h>
-#include "sort.h"
-#define getParent(i) (((i) - 1) / 2)
-#define getLeft(i) (2 * (i) + 1)
+
 #define getRight(i) (2 * (i) + 2)
 /**
  * sift_down - sift_down
