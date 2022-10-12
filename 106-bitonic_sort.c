@@ -1,5 +1,8 @@
 #include "sort.h"
 
+void bitonic_recursion(int *array, int l, int r, int direction, size_t size);
+void bitonic_merge(int *array, int l, int r, int direction);
+
 /**
  * bitonic_sort - sorts an array following the Bitonic sort algorithm
  * @array: array of ints to sort
